@@ -1,4 +1,4 @@
-import sourceHtml from '../attached_assets/index_1786337563123.html?raw';
+import sourceHtml from '../assets/asset?raw';
 
 function mountUploadedPage() {
   const app = document.querySelector('#app');
